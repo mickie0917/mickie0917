@@ -1,4 +1,4 @@
-## Hi, I'm Ji 👋
+## Hi, I'm Ji!
 
 UX designer/researcher based in U.S. AI core engineer since 2026 
 
