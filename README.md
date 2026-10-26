@@ -1,6 +1,3 @@
-### Ji Yang
-## Hi, I'm Ji Yang (양지) 👋
-
 ## Hi, I'm Ji 👋
 
 UX designer/researcher based in U.S. AI core engineer since 2026 
