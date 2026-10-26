@@ -1,8 +1,13 @@
 ### Ji Yang
+## Hi, I'm Ji Yang (양지) 👋
 
-AI engineer with a background in UX. I spent ten years in the U.S., most recently as a UX/UI designer and user researcher, and now build computer vision and LLM systems in Seoul.
+## Hi, I'm Ji 👋
 
-Most of my work sits where a model's output reaches a person: what gets measured, how it is explained back to them, and whether that explanation is honest about its limits.
+UX designer/researcher based in U.S. AI core engineer since 2026 
+
+I believe the hard part of AI isn't the model. It's the moment a person decides whether to believe it. So I build on both ends: user research to find where trust breaks, and model training + evaluation to fix it where it actually lives. A model that's right but can't show why gets ignored; one that admits what it doesn't know still gets used. I build the second kind.
+
+🇰🇷🇺🇸 Korean / English · Seoul · open to AI engineer(FDE) & UX engineer roles
 
 #### Selected work
 
@@ -11,7 +16,7 @@ Most of my work sits where a model's output reaches a person: what gets measured
 Three-minute video conversations between strangers, followed by a report built from facial expression and dialogue analysis.
 I fine-tuned the facial expression model for Korean faces with LoRA (macro-F1 0.56 → 0.74 on a person-held-out split) and worked on the report's emotion vocabulary, LLM prompts and brand.
 
-**[AccuGent](https://github.com/mickie0917/accugent)** · team of 3 · NVIDIA AI Core Engineer program
+**[AccuGent](https://github.com/mickie0917/accugent)** · team of 3 · August 2026
 
 An evaluation harness for LLM agents. An SDK records what a target agent does; a backend scores it.
 I owned target-agent integration, the evaluation scenarios and the dashboard.
