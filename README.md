@@ -26,4 +26,4 @@ Python, PyTorch, py-feat, MediaPipe, LangChain, LangGraph, FastAPI, Next.js, Sup
 
 #### Elsewhere
 
-[Portfolio](https://www.warmplacebyji.com) · [LinkedIn](https://www.linkedin.com/in/ji-yang-0301)
+[LinkedIn](https://www.linkedin.com/in/ji-yang-0301)
