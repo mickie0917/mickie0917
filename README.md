@@ -1,6 +1,6 @@
 ## Hi, I'm Ji!
 
-UX designer/researcher based in U.S. AI core engineer since 2026 
+UX designer/researcher based in S.Korea AI core engineer since 2026 
 
 I believe the hard part of AI isn't the model. It's the moment a person decides whether to believe it. So I build on both ends: user research to find where trust breaks, and model training + evaluation to fix it where it actually lives. A model that's right but can't show why gets ignored; one that admits what it doesn't know still gets used. I build the second kind.
 
